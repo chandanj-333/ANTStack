@@ -11,8 +11,7 @@
 7.Use any API testing tool to test the API (_endpoint:_ `http://127.0.0.1:8000/items/`  _Method Supported:_ `POST`)<br />
 
 **INPUT:**<br />
-
-<br /> **Note: Only List is accepted** <br />
+Note: Only List is accepted<br />
 
 `[{
        "item": "Classical Songs Collection",
