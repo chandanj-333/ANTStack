@@ -2,7 +2,7 @@
 
 **STEPS TO RUN THIS PROJECT ON YOUR LOCAL MACHINE:**<br />
 
-1.Clone this Repository (`git clone <URL>`) <br />
+1.Clone this Repository (`git clone https://github.com/chandanj-333/ANTStack.git`) <br />
 2.Move to the ANTStack Directory (`cd ANTStack`)<br />
 3.Install all the dependencies (`pip install -r requirements.txt`) <br />
 4.Makemigrations for the model (`python manage.py makemigrations`) <br />
