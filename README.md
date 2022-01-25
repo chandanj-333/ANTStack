@@ -12,6 +12,8 @@
 
 **INPUT:**<br />
 
+<br /> **Note: Only List is accepted** <br />
+
 `[{
        "item": "Classical Songs Collection",
        "itemCategory": "Music",
